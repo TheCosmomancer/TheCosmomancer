@@ -23,6 +23,6 @@ I'm Farbod Khalili Khoshehmehr (known as Cosmomancer on the internet). I'm a CS 
 <a href="mailto:lecosmomancer@gmail.com"><img align="left" alt="Mail" width="30px" style="padding-right:10px;" src="https://github.com/TheCosmomancer/TheCosmomancer/blob/main/svgs/mail.svg"></a>
 <br></p>
 
-## GitHub Stats:
+## GitHub Stats
 [![Cosmomancer's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCosmomancer&show_icons=true&hide_title=true&rank_icon=github&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Cosmomancer's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCosmomancer&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
