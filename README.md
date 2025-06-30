@@ -20,7 +20,7 @@ I'm Farbod Khalili Khoshehmehr (known as Cosmomancer on the internet). I'm a CS 
 <p>
 <a href="https://www.linkedin.com/in/farbod-khalili-khoshehmeher/"><img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://github.com/TheCosmomancer/TheCosmomancer/blob/main/svgs/linkedin.svg"></a>
 <a href="https://t.me/thecosmomancer"><img align="left" alt="Telegram" width="30px" style="padding-right:10px;" src="https://github.com/TheCosmomancer/TheCosmomancer/blob/main/svgs/telegram.svg"></a>
-<a href="mailto:lecosmomancer@gmail.com"><img align="left" alt="Mail" width="30px" style="padding-right:10px;" src="https://github.com/TheCosmomancer/TheCosmomancer/blob/main/svgs/mail.svg"></a>
+<a href="mailto:cosmomancer@proton.me"><img align="left" alt="Mail" width="30px" style="padding-right:10px;" src="https://github.com/TheCosmomancer/TheCosmomancer/blob/main/svgs/mail.svg"></a>
 <br></p>
 
 ## GitHub Stats
