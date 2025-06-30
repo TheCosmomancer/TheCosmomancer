@@ -1,7 +1,7 @@
 # Hello there, random person on the internet!
 I'm Farbod Khalili Khoshehmehr (known as Cosmomancer on the internet). I'm a CS student currently dipping my toes in different waters trying to figure out what i like! I'm currently exploring Rust and Machine Learning! I'm also a devoted NixOS cultist, [and you can be too](https://www.youtube.com/watch?v=9OMDnZWXjn4&list=PLko9chwSoP-3MLKgbuwh3n_x3HVzoZujp)!
 
-<a href="https://www.16personalities.com/intp-personality"><img alt="16personalities" src="https://github.com/TheCosmomancer/TheCosmomancer/blob/main/svgs/MBTI.svg" /></a>
+<a href="https://16personalities.com/intp-personality"><img alt="16personalities" src="https://github.com/TheCosmomancer/TheCosmomancer/blob/main/svgs/MBTI.svg" /></a>
 <a href="https://wakatime.com/@01fd41a5-9211-4122-88bd-4869bb72c293"><img src="https://wakatime.com/badge/user/01fd41a5-9211-4122-88bd-4869bb72c293.svg?style=for-the-badge" alt="wakatime" /></a>
   
   
