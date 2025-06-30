@@ -7,8 +7,8 @@ I'm Farbod Khalili Khoshehmehr (known as Cosmomancer on the internet). I'm a CS 
   
 ## Know-hows
 <p>
-<a href="http://python.org/"><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/TheCosmomancer/TheCosmomancer/blob/main/svgs/python.svg"/></a>
-<a href="https://www.rust-lang.org/"><img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://github.com/TheCosmomancer/TheCosmomancer/blob/main/svgs/rust.svg"/></a>
+<a href="https://python.org/"><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/TheCosmomancer/TheCosmomancer/blob/main/svgs/python.svg"/></a>
+<a href="https://rust-lang.org/"><img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://github.com/TheCosmomancer/TheCosmomancer/blob/main/svgs/rust.svg"/></a>
 <a href="https://git-scm.com/"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/TheCosmomancer/TheCosmomancer/blob/main/svgs/git.svg"/></a>
 <a href="https://nixos.org/"><img align="left" alt="Nix" width="30px" style="padding-right:10px;" src="https://github.com/TheCosmomancer/TheCosmomancer/blob/main/svgs/nix.svg"/></a>
 <a href="https://isocpp.org/"><img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://github.com/TheCosmomancer/TheCosmomancer/blob/main/svgs/cpp.svg"/></a>
