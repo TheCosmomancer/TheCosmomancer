@@ -1,5 +1,5 @@
 # Hello there, random person on the internet!
-I'm Farbod Khalili Khoshehmehr (known as Cosmomancer on the internet). I'm a CS student currently dipping my toes in different waters trying to figure out what i like! I'm currently exploring Rust and Machine Learning! I'm also a devoted NixOS cultist, [and you can be too](https://www.youtube.com/watch?v=9OMDnZWXjn4&list=PLko9chwSoP-3MLKgbuwh3n_x3HVzoZujp)!
+I'm Farbod Khalili Khoshehmehr (known as Cosmomancer on the internet). I'm a CS student currently dipping my toes in different waters trying to figure out what i like! I'm also a devoted NixOS cultist, [and you can be too](https://www.youtube.com/watch?v=9OMDnZWXjn4&list=PLko9chwSoP-3MLKgbuwh3n_x3HVzoZujp)!
 
 <a href="https://16personalities.com/intp-personality"><img alt="16personalities" src="https://github.com/TheCosmomancer/TheCosmomancer/blob/main/svgs/MBTI.svg" /></a>
   
