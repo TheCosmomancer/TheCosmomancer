@@ -10,9 +10,9 @@ I'm Farbod Khalili Khoshehmehr (known as Cosmomancer on the internet). I'm a CS 
 <a href="https://rust-lang.org/"><img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://github.com/TheCosmomancer/TheCosmomancer/blob/main/svgs/rust.svg"/></a>
 <a href="https://git-scm.com/"><img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://github.com/TheCosmomancer/TheCosmomancer/blob/main/svgs/git.svg"/></a>
 <a href="https://nixos.org/"><img align="left" alt="Nix" width="30px" style="padding-right:10px;" src="https://github.com/TheCosmomancer/TheCosmomancer/blob/main/svgs/nix.svg"/></a>
-<a href="https://isocpp.org/"><img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://github.com/TheCosmomancer/TheCosmomancer/blob/main/svgs/cpp.svg"/></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/TheCosmomancer/TheCosmomancer/blob/main/svgs/html.svg"/></a>
-<a href="https://drafts.csswg.org/"><img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://github.com/TheCosmomancer/TheCosmomancer/blob/main/svgs/css.svg"/></a>
+<a href="https://cplusplus.com/"><img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://github.com/TheCosmomancer/TheCosmomancer/blob/main/svgs/cpp.svg"/></a>
+<a href="https://html.com"><img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://github.com/TheCosmomancer/TheCosmomancer/blob/main/svgs/html.svg"/></a>
+<a href="https://web.dev/learn/css/"><img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://github.com/TheCosmomancer/TheCosmomancer/blob/main/svgs/css.svg"/></a>
 <br></p>
 
 ## Contact me
